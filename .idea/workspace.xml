@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2672f5de-51e6-4bbb-ad63-724645d2814f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MinimalismCode/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewTodoForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Stat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/src/components/TrafficLight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/src/components/TrafficLight.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.env" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/ProjectSellMobilePhone-update.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/jsLibraryMappings.xml" beforeDir="false" />
@@ -91,6 +85,7 @@
       <change beforePath="$PROJECT_DIR$/../seeds/ProductTableSeeder.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../seeds/PromotionTableSeeder.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../seeds/accountAdminSeeder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../user/User.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../user/UserProvider.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../user/UserRepository.js" beforeDir="false" />
@@ -528,7 +523,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -552,7 +547,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="225" />
     <option name="y" value="27" />
     <option name="width" value="683" />
@@ -595,6 +590,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -638,16 +634,15 @@
       <workItem from="1561869428913" duration="977000" />
       <workItem from="1561942987924" duration="80000" />
       <workItem from="1561946251127" duration="4894000" />
-      <workItem from="1561969521522" duration="831000" />
+      <workItem from="1561969521522" duration="1430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77620000" />
+    <option name="totallyTimeSpent" value="78219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="700" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.74666667" visible="true" weight="0.20476545" />
       <window_info id="Structure" order="1" sideWeight="0.25333333" side_tool="true" visible="true" weight="0.20476545" />
